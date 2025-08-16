@@ -1,6 +1,6 @@
 # ScrollBearer8 — Product Hub
 
-All my frameworks, playbooks, and digital products.  
+Practical systems for investing, alignment, and beyond. 
 Follow on X → [@ScrollBearer8](https://x.com/ScrollBearer8)
 
 ---

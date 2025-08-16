@@ -1,6 +1,6 @@
 # ScrollBearer8 — Product Hub
 
-Practical systems for investing, alignment, and beyond. 
+Practical systems for investing, alignment, and beyond.<br> 
 Follow on X → [@ScrollBearer8](https://x.com/ScrollBearer8)
 
 ---

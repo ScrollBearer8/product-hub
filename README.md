@@ -5,7 +5,7 @@ Follow on X: https://x.com/<@ScrollBearer8>
 
 ## 🚀 Featured
 - **<Product A>** — <1-line value>. [Details]([https://...](https://scrollbearer8.gumroad.com/l/rjmics)) · [Repo](https://...)
-- **<Product B>** — <1-line value>. [Details](https://...) · [Repo](https://...)
+- **<Product B>** — <1-line value>. [Details]([https://...](https://scrollbearer8.gumroad.com/l/hbvima)) · [Repo]([https://...](https://scrollbearer8.gumroad.com/l/hbvima))
 
 ## 📚 All Products
 | Product | Category | Status | Links |

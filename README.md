@@ -15,5 +15,5 @@ Follow on X → [@ScrollBearer8](https://x.com/ScrollBearer8)
 ---
 
 ## License
-Content © ScrollBearer8. Code MIT unless noted.
+Content © ScrollBearer8. All rights reserved.
 

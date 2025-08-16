@@ -1,10 +1,10 @@
-# ScrollBearer8 — Product Hub
+# <Your Name> — Product Hub
 
 All my frameworks, playbooks, and digital products.  
-Follow on X: https://x.com/ScrollBearer8
+Follow on X: https://x.com/<your-handle>
 
 ## 🚀 Featured
-- **<The Scroll - A Symbolic Compass for AI Alignment>** — <1-line value>. [Details][(https://...)](https://scrollbearer8.gumroad.com/l/rjmics) · [Repo]([https://...](https://scrollbearer8.gumroad.com/l/rjmics))
+- **<Product A>** — <1-line value>. [Details](https://...) · [Repo](https://...)
 - **<Product B>** — <1-line value>. [Details](https://...) · [Repo](https://...)
 
 ## 📚 All Products

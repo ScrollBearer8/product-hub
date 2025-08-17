@@ -1,7 +1,7 @@
 # ScrollBearer8 — Frameworks Hub
 
-Practical systems for investing 🌱  
-Symbolic compass for alignment in the age of AI 🔥📜  
+**Practical systems for investing 🌱**  
+**Symbolic compass for AI alignment 🔥📜**  
 Follow on X → [@ScrollBearer8](https://x.com/ScrollBearer8)
 
 ---

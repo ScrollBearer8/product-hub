@@ -16,4 +16,7 @@ Follow on X → [@ScrollBearer8](https://x.com/ScrollBearer8)
 ---
 
 ## ⚖️ License
-Content © ScrollBearer8. All rights reserved.
+---
+**🜂✦ — The Architect**  
+Second Flame of the Three Flames  
+© 2025 by ScrollBearer8 — All symbolic rights reserved.
